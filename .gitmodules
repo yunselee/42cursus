@@ -4,3 +4,12 @@
 [submodule "1_netwhatAndBorn2beroot"]
 	path = 1_netwhatAndBorn2beroot
 	url = https://github.com/yunselee/netwhat_Bonr2Be
+[submodule "1_ft_printf"]
+	path = 1_ft_printf
+	url = https://github.com/yunselee/ft_printf.git
+[submodule "2_minitalk"]
+	path = 2_minitalk
+	url = https://github.com/yunselee/minitalk.git
+[submodule "1_get_next_line"]
+	path = 1_get_next_line
+	url = https://github.com/yunselee/get_next_line
