@@ -1,0 +1,6 @@
+[submodule "0_libft"]
+	path = 0_libft
+	url = https://github.com/yunselee/libft.git
+[submodule "1_netwhatAndBorn2beroot"]
+	path = 1_netwhatAndBorn2beroot
+	url = https://github.com/yunselee/netwhat_Bonr2Be
